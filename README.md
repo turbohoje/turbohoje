@@ -1,5 +1,3 @@
-# Justin Meyer
-
 Site Reliability Engineer at [AppOmni](https://appomni.com)
 | Contact Info |
 | :-- |
