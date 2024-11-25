@@ -1,4 +1,8 @@
-⚡ Site Reliability Engineer at [AppOmni](https://appomni.com)
+⚡ Site Reliability Engineer 
+
+[personal website](https://justinrmeyer.com)
+
+
 | Contact Info |
 | :-- |
 | [jmeyer@appomni.com](mailto:jmeyer@appomni.com) |
