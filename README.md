@@ -5,6 +5,6 @@
 
 | Contact Info |
 | :-- |
-| [jmeyer@appomni.com](mailto:jmeyer@appomni.com) |
+| [github@justinrmeyer.com](mailto:github@justinrmeyer.com) |
 | Cell: 303-834-7418 |
 | [https://justinrmeyer.com](https://justinrmeyer.com) |
